@@ -1,6 +1,6 @@
 # Tiny Tapeout project information
 project:
-  title:        "tt_gamepad"      # Project title
+  title:        "PRBS31 Generator"      # Project title
   author:       "Angel Victoriano"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "Generates a PRBS siganl"      # One line description of what your project does
