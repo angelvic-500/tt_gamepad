@@ -4,7 +4,7 @@
  */
 
 `default_nettype none
-`include hvsyn_generator.v
+`include hvsync_generator.v
 module tt_um_angel_gamepad (
     input  wire [7:0] ui_in,    // Dedicated inputs
     output wire [7:0] uo_out,   // Dedicated outputs
