@@ -75,9 +75,9 @@ module tt_um_angel_gamepad (
      /* verilator lint_off PINNOCONNECT */
 
   // Colors
-    localparam [5:0] BLACK [1:0] = {2'b00, 2'b00, 2'b00};
-    localparam [5:0] GREEN [1:0] = {2'b00, 2'b11, 2'b00};
-    localparam [5:0] WHITE [1:0] = {2'b11, 2'b11, 2'b11};
+    localparam [2:0] BLACK [1:0] = {2'b00, 2'b00, 2'b00};
+    localparam [2:0] GREEN [1:0] = {2'b00, 2'b11, 2'b00};
+    localparam [2:0] WHITE [1:0] = {2'b11, 2'b11, 2'b11};
 
   // Glyph definitions (8x8)
   localparam [7:0] LEFT_GLYPH[0:7] = '{
